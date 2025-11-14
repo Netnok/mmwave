@@ -2,7 +2,7 @@
 
 # 1. 모니터링할 '시행 폴더' 경로
 #    (예: 'H1/1' 또는 'H2/6' 등)
-TARGET_FOLDER = r'C:\Users\woori\Downloads\executive\dataset\H4\15'
+TARGET_FOLDER = r'autologger'
 
 # 2. 모델 및 통계 파일 경로
 MODEL_PATH = r'C:\Users\woori\Downloads\executive\dataset\my_gru_window_model.pth'      # 👈 우리가 학습한 모델
